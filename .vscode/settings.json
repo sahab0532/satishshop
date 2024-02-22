@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Ecommerce/ve/Lib/site-packages"
+    ]
+}
